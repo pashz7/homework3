@@ -36,7 +36,7 @@ header span {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    align-content: center;
+    align-itemsgi: center;
     /* 📍 Свойства flexbox для размещения container-a вертикально по центру */
 }
 
@@ -145,7 +145,7 @@ select:hover,
 
 .skills {
     min-width: 50%;
-    gap: 60px;
+    gap: 20px;
 
     /* 📍 Свойства flexbox для располоgжения элементов с классом .label */
 }
